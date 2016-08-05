@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+.header {
+	background:#960 no-repeat center;
+	width: 1000px;
+	height: 173px;
+	
+}
+#logo {
+	float:left;
+	padding: 15px ;
+}
+.slider {
+	width: 600px;
+	height : 184px;
+	float: left;
+	padding: 0 0 0 30px;
+}
+.top_divider {
+	float: left;
+	width: 1px;
+	height:184px;
+}
